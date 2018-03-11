@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Food Map App</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="profile_info">User Profile Information</string>
+    <string name="nutrition_history">Nutrition History</string>
+
+
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+
+    <string name="add_profile">Add Profile Image</string>
+    <string name="save">Save</string>
+    <string name="bmi">BMI (Body Mass Index)</string>
+
+    <string name="addmeal">Add Meal</string>
+    <string name="health_history">BMI History</string>
+    <string name="nutrients">Check Your Nutrition History</string>
+
+    <string name="graph_point">Point Chart</string>
+    <string name="graph_bar">Bar Chart</string>
+    <string name="graph_line">Line Chart</string>
+
+    <string name="calories">Calories</string>
+    <string name="fats">Fats</string>
+    <string name="cholesterol">Cholesterol</string>
+
+    <string name="name">Name:</string>
+    <string name="height">Height (Cm):</string>
+    <string name="weight">Weight (Kg):</string>
+
+    <string name="amount_serving">Amount Per Serving</string>
+    <string name="calories_total">Total Calories:</string>
+    <string name="zero_default">0</string>
+    <string name="fats_total">Total Fats:</string>
+    <string name="fats_sat">Saturated Fats:</string>
+    <string name="fats_poly">Polyunsaturated Fats:</string>
+    <string name="fats_mono">Monounsaturated Fats:</string>
+    <string name="sodium">Sodium:</string>
+    <string name="carbs_total">Total Carbohydrates:</string>
+    <string name="diet_fiber">Dietary Fiber:</string>
+    <string name="sugars">Sugars</string>
+    <string name="protein">Protein</string>
+
+    <string name="add_save">Save Results</string>
+
+    <string name="meal_details">Enter your meal details here</string>
+    <string name="meal_search">You may enter a natural language search, like "2 eggs on toast"</string>
+    <string name="date_of_meal">Pick Date of Meal</string>
+    <string name="date_picker_description">Date Picker Image</string>
+
+    <!--<string-array name="sections_icons">-->
+        <!--<item>@android:drawable/ic_delete</item>-->
+        <!--<item>@android:drawable/ic_dialog_alert</item>-->
+        <!--<item>@android:drawable/ic_btn_speak_now</item>-->
+    <!--</string-array>-->
+
+
+</resources>
